@@ -1,1 +1,1 @@
-# advanced-fake-news-detection
+# blue-team
